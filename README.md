@@ -35,7 +35,6 @@
 
 Le jeu se lance avec une carte spécifiée en argument. Par exemple :
 
-    ```bash
     ./so_long maps/map1.ber
 
 
